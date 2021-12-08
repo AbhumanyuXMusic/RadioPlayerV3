@@ -62,8 +62,8 @@ HELP_TEXT = """
 \u2022 `/restart` - update & restart the bot
 \u2022 `/setvar` - set/change heroku configs
 
-© **Powered By** : 
-**@AsmSafone | @AsmSupport** 👑
+© **Tabahi Ka Papa** : 
+**SANKI LAUNDA** 👑
 """
 
 
